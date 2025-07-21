@@ -6,6 +6,6 @@ Resolução do desafio proposto para o processo seletivo EDROM
 
 
 # IMPORTAÇÕES
-*PriorityQueue*
-*MATH*
+As importações presentes no código são:
+**oi**
 
