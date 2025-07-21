@@ -6,6 +6,5 @@ Resolução do desafio proposto para o processo seletivo EDROM
 
 
 # IMPORTAÇÕES
-As importações presentes no código são:
-**oi**
+As importações que foram usadas no código foram: **math** e **PriorityQueue**
 
