@@ -1,3 +1,7 @@
+# NOME DO CANDIDATO: Guilherme Enrique De Oliveira Nascimento
+# CURSO DO CANDIDATO: Engenharia elétrica
+# AREAS DE INTERESSE: Elétrica, movimento
+
 from queue import PriorityQueue
 import math
 
